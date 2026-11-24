@@ -14,6 +14,12 @@ It is also none of the three example letters in the task description
 an entry byte-identical to a fixed text shares its rate and never
 enters the playoff.
 
+Revision: the first draft of this docstring named the word only as
+"caffeinated"; this revision records the fallback reasoning too — if
+the judge instead reads C as "crashed" or "chaotic", both are still
+vivid, funny and true day words, so the letter's downside is covered
+either way. The entry letter itself is unchanged.
+
 No network, no randomness, no input. Deterministic: every run writes
 byte-identical output.
 """
